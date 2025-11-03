@@ -12,7 +12,7 @@ Version 0.1 is a concept document.
 MVP (web) is in development – map + profile + feed + AI Tier 1 verification.
 
 ## 🧭 About
-Founder — Rolandas Opulskis  
+Founder — Rolandas  
 City — Bangkok  
 Year — 2025
 
