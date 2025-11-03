@@ -16,4 +16,4 @@ Founder — Rolandas
 City — Bangkok  
 Year — 2025
 
-[Download the Vision PDF](#) (soon)
+https://github.com/isaacroc/GlobeQuest/blob/main/vision
