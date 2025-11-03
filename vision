@@ -1,0 +1,146 @@
+# 🌍 GlobeQuest v0.1  
+### *Turn your travels into a living adventure*  
+**Founder:** Rolandas Opulskis  
+**Location:** Bangkok, Thailand  
+**Year:** 2025  
+
+---
+
+## ✨ Preface  
+
+I've always believed that traveling should feel like more than just crossing borders. Every place changes us in some way, and I wanted to build something that captures that — not just through photos, but through progress, memory, and play. GlobeQuest was born from that idea: to make every journey a story, every step an achievement, and every traveler a hero of their own adventure.  
+
+---
+
+## 🎯 Vision  
+
+GlobeQuest is a social travel app that turns real trips into a game.  
+It combines progress tracking, achievements, and AI verification to create an honest, gamified travel experience.  
+Every journey becomes part of a personal world map filled with memories, stats, and milestones.  
+
+---
+
+## 👥 Audience  
+
+- Young travelers who love sharing stories and collecting experiences.  
+- Digital nomads who live across countries and want to visualize their path.  
+- Travel creators and bloggers who seek authenticity and community.  
+
+---
+
+## 💡 Problem  
+
+Travel content is fragmented across platforms and lacks structure.  
+Existing "visited countries" maps feel static and unmotivating.  
+People want a way to relive their adventures, track real progress, and earn recognition—without cheating.  
+
+---
+
+## 🚀 Solution  
+
+A dynamic travel ecosystem where:  
+- Every visited place unlocks a part of your world map.  
+- AI verifies your photos and awards experience points.  
+- You level up by exploring new countries, regions, and challenges.  
+- Your profile becomes a living passport and travel journal.  
+
+---
+
+## 🧩 Core Features  
+
+### 1. Interactive Map  
+Each country lights up as you visit and upload verified photos.  
+Progress grows by regions: Bronze → Silver → Gold → Platinum.  
+
+### 2. Achievements  
+Earn badges for experiences, not check-ins.  
+Example:  
+- **Highlander 🏔️** — reached a mountain top  
+- **Gourmet 🍜** — tried 5 local dishes  
+- **Stargazer 🌌** — captured the night sky  
+
+### 3. AI Verification  
+- **Tier 1:** automatic check via EXIF data (location + date).  
+- **Tier 2:** computer vision validates landmarks and objects.  
+- **Community:** users can confirm rare or special achievements.  
+
+### 4. Feed & Profile  
+Main screen shows your friends' trips, achievements, and highlights.  
+Profile includes stats, map progress, travel timeline, and collections.  
+
+### 5. Co-Travel Mode  
+Create group journeys, invite friends, and share one story together.  
+Each participant earns personal EXP based on contribution.  
+
+---
+
+## 🎮 Experience System  
+
+| Action | EXP |
+|--------|-----|
+| New country | +50 |
+| New region/city | +20 |
+| Verified photo | +10 |
+| Challenge completed | +25 |
+| Achievement unlocked | +100 |
+
+Repeat visits give no EXP unless new regions or goals are reached — encouraging real exploration, not farming.
+
+---
+
+## 🧠 AI Integrity  
+
+GlobeQuest uses hybrid verification:  
+- **Geo-data** (location, date, camera)  
+- **Visual recognition** (landmarks, nature, context)  
+- **Trust score** that grows with honest activity  
+
+This keeps the experience fair, transparent, and inspiring.  
+
+---
+
+## 🌎 Social & Emotional Value  
+
+GlobeQuest is not just about where you've been — it's about what you've lived.  
+The app helps you reconnect with memories, motivate new adventures, and share your world with others who understand it.  
+
+---
+
+## 💰 Future Monetization (post-MVP)  
+
+- Premium analytics and map customization  
+- Travel Coins for profile upgrades and map skins  
+- Partner integrations (Booking, Skyscanner, travel insurance)  
+
+*(All features will be introduced after user growth — current stage is 100% free.)*  
+
+---
+
+## 🧭 Roadmap  
+
+| Version | Focus | Description |
+|----------|--------|-------------|
+| **v0.1** | Concept | Vision, AI logic, visual direction |
+| **v0.2 (MVP)** | Prototype | Web app with map, profile, feed, AI Tier 1 |
+| **v0.3** | Social Expansion | Comments, co-travel, achievements |
+| **v1.0** | Public Release | AI Tier 2, stats, rating system |
+| **v2.0** | Mobile App | React Native version, live tracking, offline map |
+
+---
+
+## 🪄 Why I'm Building It  
+
+Because travel deserves more than pins and hashtags.  
+I want every journey to feel meaningful — something you can look back at, measure, and be proud of.  
+GlobeQuest is a mix of memory, discovery, and play — for everyone who lives curiously.  
+
+---
+
+## 📢 Current Status  
+
+Version 0.1 — concept complete.  
+MVP (web) is in active development.  
+Looking for early testers, travel enthusiasts, and collaborators.  
+
+Contact: **Rolandas Opulskis**  
+Email / Telegram / Product Hunt — *to be added after setup*  
